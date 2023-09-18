@@ -113,7 +113,8 @@ Future plans for our project
 
 - [Siddheshsingh Tanwar](https://github.com/siddheshsingh26): siddheshsinghtanwar@gmail.com 
 - [Shrived Kakde](https://github.com/Shrived00): shrivedkakde00@gmail.com 
-- [Pratham Deshmukh](https://github.com/Pratham-Bot): mast.deshmukh@gmail.com 
+- [Pratham Deshmukh](https://github.com/Pratham-Bot): mast.deshmukh@gmail.com
+- -[Hardik Balwani] (https://github.com/Hardikbalwani): hardikbalwani18@gmail.com
     
 ## 👨‍🏫Mentors
 
